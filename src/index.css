@@ -10,6 +10,13 @@ html {
   font-family: 'Nunito', sans-serif;
 }
 
+body {
+  background-image: url('https://wallpaperaccess.com/full/1567736.png');
+  background-size: cover;
+  background-position: center;
+}
+
+
 main {
   padding: 1rem;
   min-height: 100vh;
